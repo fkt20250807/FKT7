@@ -10,4 +10,4 @@
 
 每日更新丰富多彩的影视资源，提供无广告、无注册的纯净观看环境。支持多格式播放，满足不同设备需求。涵盖多样题材，分类详细，方便快速查找心仪内容。更有用户推荐和热播榜单，带来优质观影体验与丰富选择。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link]( https://github.com/fkt20250807/FKT7 ）</span>
